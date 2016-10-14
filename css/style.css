@@ -1,0 +1,49 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+p{
+	margin-top: 20px;
+}
+
+div{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+img {
+    height: 200px;
+    width: 50%;
+}
+
+button {
+    background-color: #efe9e9;
+}
+
+.header {
+	background-color: dodgerblue;
+	color: white;
+	font-weight: normal;
+	font-size: 2em;
+}
+
+#container{
+	width: 970px;
+	margin: 0 auto;
+}
+
+.box_container{
+	width: 970px;
+	border:1px solid black;
+	margin-left: 20px;
+}
+
+.red{
+	color: red;
+}
+
+button {
+    background-color: #efe9e9;
+}
+
